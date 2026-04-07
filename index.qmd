@@ -1,11 +1,18 @@
 ---
-title: "project"
+title: "Brett Hartlaub"
 image: images/IMG_4137.PNG
 toc: false
 about: 
   template: jolla
   image-shape: round
-  image-width: 15em
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/BrettHartlaub
+    - text: Email
+      href: mailto:brettjhartlaub@gmail.com
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/brett-hartlaub-456768297/
 ---
 
 ::: {#bio}
